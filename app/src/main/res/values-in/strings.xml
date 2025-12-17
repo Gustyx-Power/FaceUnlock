@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Face Unlock</string>
+    
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_description">Layanan ini memungkinkan Face Unlock untuk membuka kunci perangkat secara otomatis saat wajah Anda terdeteksi. Diperlukan izin untuk melakukan gestur seperti geser dan ketuk untuk berinteraksi dengan layar kunci.</string>
+    <string name="accessibility_service_summary">Aktifkan deteksi wajah untuk auto unlock</string>
+    
+    <!-- Main Screen -->
+    <string name="main_title">Face Unlock</string>
+    
+    <!-- Status -->
+    <string name="status_register_face">Daftarkan wajah untuk memulai</string>
+    <string name="status_enable_accessibility">Aktifkan Accessibility Service</string>
+    <string name="status_enable_overlay">Izinkan Overlay Permission</string>
+    <string name="status_enable_face_unlock">Aktifkan Face Unlock</string>
+    <string name="status_active">Face Unlock Aktif!</string>
+    <string name="switch_enable">Aktifkan Face Unlock</string>
+    
+    <!-- Face Data -->
+    <string name="section_face_data">Data Wajah</string>
+    <string name="face_registered">Wajah terdaftar</string>
+    <string name="face_not_registered">Belum ada wajah terdaftar</string>
+    <string name="btn_register_face">Daftarkan Wajah</string>
+    <string name="btn_delete">Hapus</string>
+    <string name="toast_face_deleted">Data wajah dihapus</string>
+    
+    <!-- Credentials -->
+    <string name="section_credentials">Kredensial Lock Screen</string>
+    <string name="credentials_description">Simpan PIN atau Password untuk auto-unlock</string>
+    <string name="credentials_saved">%s tersimpan (terenkripsi)</string>
+    <string name="credentials_not_saved">Belum ada kredensial tersimpan</string>
+    <string name="hint_pin">Masukkan PIN</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_clear">Hapus</string>
+    <string name="toast_pin_saved">PIN tersimpan</string>
+    <string name="toast_password_saved">Password tersimpan</string>
+    <string name="toast_pin_min">PIN minimal 4 digit</string>
+    <string name="toast_password_min">Password minimal 4 karakter</string>
+    <string name="toast_credentials_cleared">Kredensial dihapus</string>
+    
+    <!-- Permissions -->
+    <string name="section_permissions">Izin Diperlukan</string>
+    <string name="accessibility_active">Accessibility aktif</string>
+    <string name="accessibility_inactive">Accessibility tidak aktif</string>
+    <string name="overlay_granted">Izin overlay diberikan</string>
+    <string name="overlay_needed">Izin overlay diperlukan</string>
+    <string name="btn_enable">Aktifkan</string>
+    <string name="btn_allow">Izinkan</string>
+    
+    <!-- Information -->
+    <string name="section_info">Informasi</string>
+    <string name="info_1">Setelah reboot, masukkan PIN/Password sekali secara manual</string>
+    <string name="info_2">Face unlock aktif setelah unlock pertama</string>
+    <string name="info_3">Menggunakan kamera depan untuk deteksi wajah</string>
+    
+    <!-- Enroll Face Screen -->
+    <string name="enroll_title">Daftarkan Wajah</string>
+    <string name="enroll_instruction">Posisikan wajah di dalam frame</string>
+    <string name="enroll_status_ready">Wajah terdeteksi! Tap Capture untuk mulai</string>
+    <string name="enroll_status_no_face">Tidak ada wajah terdeteksi</string>
+    <string name="enroll_status_capturing">Capturing… Jangan bergerak!</string>
+    <string name="enroll_status_open_eyes">Buka mata Anda</string>
+    <string name="enroll_status_move_head">Gerakkan kepala sedikit</string>
+    <string name="enroll_cancel">Batal</string>
+    <string name="enroll_capture">Capture</string>
+    <string name="enroll_success">Wajah berhasil didaftarkan!</string>
+    
+    <!-- Face Detection Overlay -->
+    <string name="overlay_detecting">Memindai wajah…</string>
+    <string name="overlay_detected">Wajah terdeteksi!</string>
+    <string name="overlay_unlocking">Membuka kunci…</string>
+    
+    <!-- Toast -->
+    <string name="toast_find_face_unlock">Cari \'Face Unlock\' dan aktifkan</string>
+    <string name="toast_camera_granted">Izin kamera diberikan</string>
+</resources>

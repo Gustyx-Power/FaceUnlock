@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "me.gustyxpower.faceunlock.app-mergeReleaseResources-67:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\putri\\.gradle\\caches\\8.12\\transforms\\0298666856f82d27ed629e17f9c32282\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

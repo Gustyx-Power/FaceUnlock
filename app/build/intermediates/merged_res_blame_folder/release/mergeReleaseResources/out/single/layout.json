@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "me.gustyxpower.faceunlock.app-mergeReleaseResources-68:/layout/overlay_face_detection.xml",
+        "source": "me.gustyxpower.faceunlock.app-main-71:/layout/overlay_face_detection.xml"
+    },
+    {
+        "merged": "me.gustyxpower.faceunlock.app-mergeReleaseResources-68:/layout/activity_main.xml",
+        "source": "me.gustyxpower.faceunlock.app-main-71:/layout/activity_main.xml"
+    },
+    {
+        "merged": "me.gustyxpower.faceunlock.app-mergeReleaseResources-68:/layout/activity_enroll_face.xml",
+        "source": "me.gustyxpower.faceunlock.app-main-71:/layout/activity_enroll_face.xml"
+    }
+]
