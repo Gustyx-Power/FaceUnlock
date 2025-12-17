@@ -1,0 +1,101 @@
+# ===================
+# Android Project
+# ===================
+
+# Build output
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+.kotlin/
+
+# Local configuration (contains SDK path)
+local.properties
+
+# ===================
+# IDE - Android Studio
+# ===================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ===================
+# OS Generated Files
+# ===================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+
+# ===================
+# Logs & Dumps
+# ===================
+*.log
+*.txt
+!README.txt
+!LICENSE.txt
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===================
+# Misc
+# ===================
+
+# Key stores (private signing keys)
+*.jks
+*.keystore
+
+# Google Services (contains API keys)
+google-services.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Proguard output (can be large)
+proguard/
+
+# Native Debug Symbols
+*.so.debug
+
+# Test output
+.externalNativeBuild/
+.cxx/
+
+# Kotlin specific
+*.kotlin_module
+
+# Captures crash logs
+captures/
+
+# ===================
+# Coverage & Reports
+# ===================
+jacoco/
+coverage/
+test-results/
